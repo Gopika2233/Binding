@@ -1,2 +1,2 @@
 # Binding
-binding property
+binding property in one waybinding
